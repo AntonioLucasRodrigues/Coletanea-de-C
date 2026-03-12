@@ -1,0 +1,13 @@
+# Ignorar executáveis (Aplicativos do Windows e Linux/Mac)
+*.exe
+*.out
+*.exe~
+
+# Ignorar arquivos do pacote Office
+*.xlsx
+*.pptx
+*.docx
+
+# Ignorar outros arquivos temporários ou de sistema
+Thumbs.db
+.DS_Store

@@ -1,0 +1,103 @@
+*{
+    margin: 0; 
+    border: 0; 
+    padding: 0; 
+    font-family: 'Varela Round', sans-serif;
+  
+}
+
+body{
+    background: rgb(255, 233, 155);
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+nav img{
+    width: 100px;
+}
+nav ul{
+    display: flex;
+    list-style:none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10%;
+    width: 50%;
+}
+
+nav ul li a{
+    text-decoration: black;
+    font-size: 1em;
+    color: #000000;
+}
+nav ul li a:hover{
+    border-bottom: 3px solid black;
+}
+#prese{
+    padding: 5px 10px;
+    margin-right: 20px;
+    text-decoration: black;
+    font-size: 1em;
+    color: #000000;
+    border-bottom: 3px solid black;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3% 0%;
+}
+#fo_lo{
+    width: 200px;
+}
+.corpo{
+    background: linear-gradient(0deg, rgba(153,207,208,1) 22%, rgba(252,229,148,1) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4% 0%;
+}
+.container{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 3%;
+    flex-wrap: wrap;
+}
+.projeto{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3% 0%;
+    background-color: bisque;
+    margin: 3% 0%;
+}
+.traco{
+    width: 30%;
+    height: 5px;
+    background-color: #000000;
+    border-radius: 30px;
+    margin: 2% 0%;
+}
+.projeto img{
+    width: 60%;
+    
+}
+.texto{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projeto img{
+    width: 390px;
+    height: 210px;
+}

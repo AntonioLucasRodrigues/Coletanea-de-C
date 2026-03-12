@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50pt;
+    background-color: black;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 32pt;
+    background-color: black;
+    color: white;
+}
+
+h2{
+    font-family: cursive;
+    color: white;
+    text-align: left;
+}
+
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    text-align: right;
+    color: white;
+}
+
+#g{
+    
+    background-color: darkblue;
+}
+
+li{
+    font-size: 26px;
+    color: crimson;
+}
+
+h4{
+    text-align: center;
+    font-size: 28px;
+    font-family: monospace;
+    color: beige;
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color-scheme: white;
+}

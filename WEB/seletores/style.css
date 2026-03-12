@@ -1,0 +1,52 @@
+/*SELEÇÃO POR NOME*/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/*SELEÇÃO POR ID*/
+#div-header{
+    background-color: rgb(234, 229, 234);
+    width: 80%;
+    margin: 0% 10%;
+}
+
+#logo{
+    width: 200px;
+    padding: 0;
+    margin: 10px;
+}
+
+#div-conteudo{
+    width: 80%;
+    margin: 0% 10%;
+    background-color: rgb(240, 240, 240);
+    
+}
+
+.image-jacinto{
+    width: 50%;
+    padding: 0% 25%;
+}
+
+#div-footer{
+    width: 80%;
+    margin: 0% 10%;
+    background-color: rgb(2, 102, 174);
+    height: 60px;
+    padding: 20px 0px 0px 0px;
+}
+
+#dev{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Arial';
+}
+
+#direitos{
+    color: #fff;
+    text-align: center;
+    font-family: 'Arial';
+}

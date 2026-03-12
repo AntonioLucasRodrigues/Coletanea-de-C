@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.barra{
+    background-color: #fff134;
+    width: 100%; /*Largura*/
+    height: 100px; /*Altura*/
+}
+
+.bobfeliz{
+width: 8%;
+    height: 70%;
+    padding: 12px;
+
+}
+.bobdeitado{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.bobempe{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.bobbb{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.bobchef{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.boblula{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.sunguinha{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.desconfiado{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;
+}
+.bobvei{
+    margin-right:auto;
+    width: 8%;
+    height: 70%;
+    padding: 12px;   
+}
+.sorrindo{
+    margin-right:auto;
+    width: 7%;
+    height: 70%;
+    padding: 12px; 
+}
+
+/*Herdando propriedades do pai*/
+.div-pai{
+    width: 100%;
+    background-color: rgb(165, 209, 245);
+    height:480px ;
+}
+.div-pai h1{
+    font-family: 'Smokum';
+}
+
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color:#fff134;
+}

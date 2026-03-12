@@ -1,0 +1,149 @@
+*{
+    margin: 0; 
+    border: 0; 
+    padding: 0; 
+    font-family: 'Roboto';
+  
+}
+.traco{
+    width: 30%;
+    height: 5px;
+    background-color: #000000;
+    border-radius: 30px;
+    margin: 2% 0%;
+}
+body{
+    background: rgb(255, 233, 155);
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+nav img{
+    width: 100px;
+}
+nav ul{
+    display: flex;
+    list-style:none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10%;
+    width: 50%;
+}
+
+nav ul li a{
+    text-decoration: black;
+    font-size: 1em;
+    color: #000000;
+}
+nav ul li a:hover{
+    border-bottom: 3px solid black;
+}
+#prese{
+    padding: 5px 10px;
+    margin-right: 20px;
+    text-decoration: black;
+    font-size: 1em;
+    color: #000000;
+    border-bottom: 3px solid black;
+}
+
+
+.hs h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.hs h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 25px;
+    color: #BDBDBD;
+
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3% 0%;
+}
+
+#fo_lo{
+    width: 200px;
+}
+.hs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:4%;
+    padding: 3% 0%;
+}
+.hs img{
+    width: 400px;
+}
+.hs-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    flex-wrap: wrap;
+}
+.container-barra{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin: 4% 0%;
+}
+.container-barra label{
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+}
+.hs-barras{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2vh; 
+}
+.b{
+    width: 100%;
+    height: 4vh;
+    background-color: rgb(178, 194, 222)
+}
+#html{
+    width: 70%;
+    height: 100%;
+    background-color:tomato;
+    
+}
+#css{
+    width:40%;
+    height: 100%;
+    background-color:tomato;
+}
+#c{
+    width:90%;
+    height: 100%;
+    background-color:tomato;
+}
+#java{
+    width:40%;
+    height: 100%;
+    background-color:tomato;
+}
+.hs-box{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin: 4% 0%;
+}
